@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nouhayla Elhidari — AI Developer
+# 👋 Hi, I'm Nouhayla El Hidari — AI Developer
 
  AI Developer passionate about building intelligent systems and transforming data into real-world solutions.  
  I enjoy working on Machine Learning, Deep Learning, and Data Engineering projects.
