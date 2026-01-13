@@ -83,26 +83,5 @@ Computer vision pipeline detecting faces and classifying emotions with automated
 
 [🔗 View Project](https://github.com/elhidarinouhayla/facial-emotion-detection)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nouhayla's GitHub stats](https://github-readme-stats.vercel.app/api?username=elhidarinouhayla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhidarinouhayla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elhidarinouhayla&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=elhidarinouhayla&color=blueviolet&style=flat-square)
 
 </div>
