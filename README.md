@@ -101,7 +101,7 @@ Computer vision pipeline detecting faces and classifying emotions with automated
 
 <div align="center">
 
-⭐ **Feel free to explore my repositories and follow my journey in AI and Data!**
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elhidarinouhayla&color=blueviolet&style=flat-square)
 
