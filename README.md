@@ -63,7 +63,7 @@ Fullstack HR decision-support app combining supervised machine learning and gene
 
 Medical decision support API predicting cardiovascular disease risk with interactive Swagger documentation and pytest coverage.
 
-[🔗 View Project](https://github.com/elhidarinouhayla/healthcare-ml-api)
+[🔗 [View Project](https://github.com/elhidarinouhayla/ml-health-api.git)
 
 ---
 
