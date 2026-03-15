@@ -8,15 +8,13 @@
 
 ###
 
-- 🔭 I’m currently working on **AI-powered applications and ML APIs**
+-  Currently building **AI-powered applications and machine learning APIs**
 
-- 🌱 I’m currently learning **MLOps, Kubernetes and Cloud AI deployment**
+-  Learning more about **MLOps, Kubernetes, Terraform and cloud-based ML systems**
 
-- 👯 I’m looking to collaborate on **AI, Machine Learning and Data Engineering projects**
+-  Open to collaborating on **AI, machine learning and data engineering projects**
 
-- 🤝 I’m looking for help with **scalable AI systems and cloud deployment**
-
-- 💬 Ask me about **Python, Machine Learning, FastAPI, AI APIs and Data Science**
+-  Interested in improving **scalable ML pipelines and production-ready AI systems**
 
 ---
 
@@ -50,6 +48,10 @@
 
 <a href="https://www.tensorflow.org">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://keras.io">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
 </a>
 
 <a href="https://scikit-learn.org/">
@@ -104,42 +106,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
 
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
+</a>
+
 </p>
-
----
-
-<h3 align="left">Featured Projects:</h3>
-
-### 🔹 RetentionAI – Employee Churn Predictor & HR Assistant
-**Tech Stack:** Python • FastAPI • PostgreSQL • Docker • Next.js • Machine Learning • Generative AI  
-
-Fullstack HR decision-support application predicting employee churn and generating retention strategies using ML and generative AI.
-
-🔗 https://github.com/elhidarinouhayla/RetentionAI_Backend
-
----
-
-### 🔹 Healthcare ML API – Cardiovascular Risk Prediction
-**Tech Stack:** Python • FastAPI • Scikit-learn • SQLite  
-
-Medical decision-support API predicting cardiovascular disease risk.
-
-🔗 https://github.com/elhidarinouhayla/ml-health-api
-
----
-
-### 🔹 Hybrid Analyzer – AI Orchestration Platform
-**Tech Stack:** Python • Next.js • PostgreSQL • Hugging Face • Gemini API  
-
-AI platform for zero-shot classification and contextual text summarization.
-
-🔗 https://github.com/elhidarinouhayla/Hybrid-Analyzer-AI-Orchestration-Platform-Backend
-
----
-
-### 🔹 Facial Emotion Detection – CNN + OpenCV
-**Tech Stack:** TensorFlow • OpenCV • FastAPI • PostgreSQL  
-
-Computer vision pipeline detecting faces and classifying emotions.
-
-🔗 https://github.com/elhidarinouhayla/facial-emotion-detection
